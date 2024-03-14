@@ -97,12 +97,6 @@ Support for specific items (not just GP) ?
 </li>
 </ul>
 <p style="text-align:center;">
-<a href="https://i.imgur.com/US0aGJW.png" title="Enlarge image" data-fileid="undefined" data-wrappedlink="" data-ipslightbox="" data-ipslightbox-group="undefined"><img alt="US0aGJW.png" data-ratio="53.48" style="height:auto;" width="690" data-src="https://i.imgur.com/US0aGJW.png" src="https://dreambot.org/forums/applications/core/interface/js/spacer.png" class="ipsImage_thumbnailed"></a>
-</p>
-<p style="text-align:center;">
-&nbsp;
-</p>
-<p style="text-align:center;">
 <a href="https://developers.sellix.io/#webhooks" rel="external nofollow noopener" target="_blank">https://developers.sellix.io/#webhooks</a>
 </p>
 <p style="text-align:center;">

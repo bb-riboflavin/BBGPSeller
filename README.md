@@ -70,14 +70,11 @@ Start script initially to generate config file, the GUI will only appear if the 
 Ensure the port specified in your config is open on both your OS firewall and your router. To test, run the script and check the port with<span>&nbsp;</span><a href="https://canyouseeme.org/" rel="external nofollow noopener" style="background-color:transparent;" target="_blank">https://canyouseeme.org</a>&nbsp;to confirm the port is open. The script must be running for this&nbsp;site to see the port.
 </li>
 <li>
-Configure your listing in Sellix with the below information in the "Additional Details" and "Webhooks Endpoints"&nbsp;section at the bottom of the product info. (<em><strong>http://YOURPUBLICIP:420/webhook&nbsp;</strong></em><strong>needs to be changed&nbsp;to match your own public IP and your own opened port)</strong>
+Configure your listing in Sellix with the below information in the "Additional Details" of your product listing, then in Developer Options > "Webhooks Endpoints"&nbsp;section create you URL for your endpoint. (http://YOURPUBLICIP:420/webhook, changed to match your own public IP and your own opened port)
 </li>
 </ul>
 <p style="text-align:center;">
 <a href="https://dreambot.org/forums/uploads/monthly_2024_02/image.png.ff3dc203986d0c252a043f60fa4c1395.png" title="Enlarge image" data-fileid="7708" data-wrappedlink="" data-ipslightbox="" data-ipslightbox-group="undefined"><img alt="image.png.ff3dc203986d0c252a043f60fa4c1395.png" class="ipsImage ipsImage_thumbnailed" data-fileid="7708" data-ratio="23.92" style="height:auto;" width="949" data-src="https://dreambot.org/forums/uploads/monthly_2024_02/image.png.ff3dc203986d0c252a043f60fa4c1395.png" src="https://dreambot.org/forums/uploads/monthly_2024_02/image.png.ff3dc203986d0c252a043f60fa4c1395.png" data-loaded="true"></a>
-</p>
-<p style="text-align:center;">
-<a href="https://i.imgur.com/BJnyGRR.png" title="Enlarge image" data-fileid="undefined" data-wrappedlink="" data-ipslightbox="" data-ipslightbox-group="undefined"><img alt="BJnyGRR.png" data-ratio="100.28" style="height:auto;" width="724" data-src="https://i.imgur.com/BJnyGRR.png" src="https://dreambot.org/forums/applications/core/interface/js/spacer.png" class="ipsImage_thumbnailed"></a>
 </p>
 <p style="background-color:#24262b;color:#ababab;font-size:14px;">
 <strong><span style="font-size:20px;">Future Plans:</span></strong>
